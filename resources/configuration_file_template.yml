@@ -1,6 +1,6 @@
-s3_id: YOUR_AWS_S3_ACCESS_KEY_ID
-s3_secret: YOUR_AWS_S3_SECRET_ACCESS_KEY
-s3_bucket: your.blog.bucket.com
+s3_id: AKIAJESQRSWLBRALL6HQ
+s3_secret: tTpoXu+UZn8v1yeA6oFuJIbC/146SOejaCBkUpG3
+s3_bucket: ta-devops-accenture
 
 # set s3_token if using temporary credentials with a session token (eg: when assuming a role)
 # s3_token: YOUR_AWS_S3_SESSION_TOKEN
