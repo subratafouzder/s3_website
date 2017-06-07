@@ -1,5 +1,5 @@
-s3_id: AKIAJESQRSWLBRALL6HQ
-s3_secret: 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
+s3_id:
+s3_secret: 
 s3_bucket: ta-devops-accenture
 
 # set s3_token if using temporary credentials with a session token (eg: when assuming a role)
